@@ -1,0 +1,11 @@
+td {color: transparent;
+text-shadow: 0 0 10px #000000;}
+td a{
+color: transparent;
+text-shadow: 0 0 10px #337ab7;}
+td:last-child a{
+color: transparent;
+text-shadow: 0 0 0px #337ab7;}
+
+.username{color: transparent;
+text-shadow: 0 0 10px #337ab7;}
